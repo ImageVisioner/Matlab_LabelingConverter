@@ -10,11 +10,15 @@ Software Screenshot
 1st:Using MatLab imageLabeler toolbox, annotate images.
 
 such as:
+
 ![1653543088(1)](https://user-images.githubusercontent.com/102503666/170422839-26213481-cc39-4858-8e16-23d7d36116d9.jpg)
 
+2nd: Export format is table, named: DIYlabel
 
+such as:
 
-2nd:
+![1653543255(1)](https://user-images.githubusercontent.com/102503666/170423225-f2076603-a1b5-499a-988e-861014ad2f27.jpg)
+
 
 3th:
 
