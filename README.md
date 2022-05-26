@@ -27,6 +27,8 @@ such as:
 
 
 ***3th:***
+![QQ录屏20220527011028](https://user-images.githubusercontent.com/102503666/170539584-09353433-985d-4519-ac7e-a68e20e73e39.gif)
+
 
 # Others
 If you have any questions, please do not hesitate to contact me on my WeChat public platform. Here is the QR code for my WeChat public platform.
