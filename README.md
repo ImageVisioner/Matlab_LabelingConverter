@@ -7,7 +7,11 @@ Software Screenshot
 
 # How to use it
 
+1st:
 
+2nd:
+
+3th:
 
 # Others
 If you have any questions, please do not hesitate to contact me on my WeChat public platform. Here is the QR code for my WeChat public platform.
