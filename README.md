@@ -7,7 +7,12 @@ Software Screenshot
 
 # How to use it
 
-1st:
+1st:Using MatLab imageLabeler toolbox, annotate images.
+
+such as:
+![1653543088(1)](https://user-images.githubusercontent.com/102503666/170422839-26213481-cc39-4858-8e16-23d7d36116d9.jpg)
+
+
 
 2nd:
 
