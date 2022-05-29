@@ -10,6 +10,9 @@ Software Screenshot
 
 ![1653551579(1)](https://user-images.githubusercontent.com/102503666/170443813-0fb8b472-7373-411e-a7f4-54947830b577.jpg)
 
+![1653844711(1)](https://user-images.githubusercontent.com/102503666/170883596-1ec8f264-33c7-49e7-85f8-7d591477f187.jpg)
+
+
 
 # How to use it
 
