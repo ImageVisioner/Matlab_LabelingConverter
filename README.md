@@ -46,3 +46,12 @@ If you have any questions, please do not hesitate to contact me on my WeChat pub
 https://space.bilibili.com/216803355?spm_id_from=333.788.0.0
 
 If you want to contact with my E-mail address： ImageVisioner@outlook.com
+
+
+**-----------------------------------------------------------------------------------------------------**
+# Log:
+>**version 1.5: 2022/05/30**：
+
+***1、Added support for groundTruth format, from now on. imagelaber annotation toolbox two formats (table/groundTruth) are supported.***
+
+***2、Changed the icon of the software and improved the performance optimization.***
